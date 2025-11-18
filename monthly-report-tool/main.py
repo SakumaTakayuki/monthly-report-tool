@@ -1,0 +1,1 @@
+print("monthly-report-tool: 動作テスト OK")
